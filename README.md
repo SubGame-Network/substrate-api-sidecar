@@ -20,6 +20,15 @@
 
 <br /><br />
 
+## SubGame Note
+
+[SubGame](http://www.subgame.org/) fork this project is used to develop research and feed back to the original author. 
+
+Research direction:
+- Substrate FRAME framework
+- Substrate RPC client
+- Substrate application tools
+
 ## Note
 
 v1.0.0 was released on 2020-10-23. This major release introduced several renamed endpoints as breaking changes. It is important that users complete the transition to the new endpoints ASAP so they are ready for any subsequent emergency updates. Please visit the [MIGRATION_GUIDE](/MIGRATION_GUIDE.md) to
