@@ -29,6 +29,8 @@ Research direction:
 - Substrate RPC client
 - Substrate application tools
 
+for more [details](./subgame.md)
+
 ## Note
 
 v1.0.0 was released on 2020-10-23. This major release introduced several renamed endpoints as breaking changes. It is important that users complete the transition to the new endpoints ASAP so they are ready for any subsequent emergency updates. Please visit the [MIGRATION_GUIDE](/MIGRATION_GUIDE.md) to
